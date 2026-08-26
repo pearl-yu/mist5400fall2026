@@ -1,3 +1,3 @@
 # mist5400fall2026
 
-Initial commit: repository created and README added.
+This is the repo to store notebooks/scripts for MIST 5400 Foundations of Artificial Intelligence.
